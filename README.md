@@ -1,5 +1,5 @@
 # Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes
-This repository contains the Python code of the work done for the project of the course called "Learning from Networks" (Master Degree in Data Science). 
+This repository contains the Python code of the work done for the project of a course called "Learning from Networks" (Master Degree in Data Science). 
 
 The aim of the work has been to compare different kinds of node embedders (factorization-based and random-walk-based) along with different classifiers (Random Forest, AdaBoost, MLP, CNN) to predict gene-disease associations.
 The code uses karateclub (https://github.com/benedekrozemberczki/karateclub) for the embedders, Sklearn for the Machine Learning and MLP classifiers, and Pytorch for the CNN classifier.
